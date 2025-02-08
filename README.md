@@ -49,7 +49,7 @@ Problems Addressed & Market Gap
 ✔ Difficulty in Social Interaction: No system exists that interprets emotions or gestures for enhanced communication.
 ✔ Limited Emergency Support: Most solutions do not integrate automated emergency alerts or location sharing.
 
-✨ Invisio Bridges This Gap:
+✨ Invio Bridges These Gaps:
 ✅ One Unified Solution: Combines navigation, object detection, OCR, and emergency response in a single ecosystem.
 ✅ True Hands-Free Experience: Fully voice-controlled, real-time assistance for all needs.
 ✅ AI-Driven Smart Assistance: Personalized chatbot remembers past interactions to enhance user experience.
