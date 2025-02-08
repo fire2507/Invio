@@ -1,4 +1,4 @@
-Overview
+Overview:
 Invio is an AI-driven, voice-controlled smart navigation system designed to empower visually impaired individuals with full independence in mobility, interaction, and daily tasks. By integrating real-time navigation, object detection, OCR reading, sentiment and gesture analysis, emergency alerts, and personalized chatbot memory, Invisio ensures that visually impaired users can navigate, communicate, and access information effortlessly—bridging the accessibility gap in today’s digital world.
 
 This all-in-one system leverages state-of-the-art AI models, speech recognition, and IoT technologies to create a seamless, intuitive, and voice-powered ecosystem for users who lack visual perception but refuse to lack opportunities.
